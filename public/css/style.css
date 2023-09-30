@@ -1,0 +1,173 @@
+.lower{
+    background-color: #282A35;
+   padding: 1%; 
+   
+
+}
+.lower_btn{
+size: 60cm;
+padding: 1%;
+background-color: #282A35;
+color: white;
+border: none;
+cursor: pointer;
+font-family: 'Source Sans Pro', sans-serif;
+}
+.lower_btn:hover{
+background-color:grey;
+}
+
+.icon{
+cursor: pointer;
+
+}
+
+.img {
+ margin: 3px ;
+ width:  55px;
+ height: 50px;
+ 
+}
+
+.upper_btn{
+  height: 2cm;
+  background-color: white; 
+  border: none;
+  margin-left: 1cm;
+  font-weight:bold;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+.upper_btn:hover{
+background-color: green;
+}
+.rightupper_btn{
+position: relative;
+border: none;
+border-radius: 12px;
+left: 300px;
+color: white;
+text-align: left;
+background-color: black;
+height: 40px;
+}
+.inside_btn{
+border: none;
+border-radius: 10px;
+text-align: right;
+background-color: white;
+}
+.login_btn{
+width: 100px;   
+position: relative;
+border: none;
+border-radius: 12px;
+left: 300px;
+color: white;
+text-align: center;
+background-color:green;
+height: 40px;
+}
+.login_btn:hover{
+background-color:darkgreen;
+}
+.paid_btn{
+position: relative;
+border: hidden;
+border-radius: 12px;
+left: 300px;
+
+text-align: left;
+
+height: 40px;
+}
+.paid_btn:hover{
+background-color: green;
+}
+.rightupper_btn1{
+position: relative;
+border: none;
+border-radius: 12px;
+left: 300px;
+
+text-align: left;
+background-color:lightpink;
+height: 40px;
+}
+.rightupper_btn:hover{
+background-color: green;
+}
+.rightupper_btn1:hover{
+background-color: green;
+}
+.inside_btn1{
+border: none;
+border-radius: 10px;
+text-align: right;
+background-color: white;
+}
+ul {
+list-style-type: none;
+margin: 0;
+padding: 4px;
+display: block;
+position: relative;
+height: 100%;
+width: 250px;
+overflow:auto;
+background-color: lightgray;
+}
+li  a{
+display: block;
+padding-left: 9px;
+text-decoration: none;
+color: black;
+background-color: transparent;
+text-align:left;
+}
+li a:hover {
+background-color: #555;
+color: white;
+}
+
+
+.sidebar{
+  position: relative;
+background-color: lightgray;
+width: 250px;
+border-right: 5px;
+height: 500px;
+}
+li a.active {
+background-color: #04AA6D;
+color: white;
+}
+.mainheaderdiv{
+position: absolute;
+left: 300px;
+top:206px;
+}
+.home_btn{
+width: 90px;
+border-radius: 10px;
+height: 40px;  
+color: white;
+background-color: green;
+}
+.back_btn{
+ position: relative;
+ width: 90px;
+ border-radius: 10px;
+ height: 40px;  
+ color: white;
+ background-color: green;
+ left:800px;
+}
+
+.home_icon:hover{
+ background-color: grey;
+}
+ .btn-danger{
+  position: inherit;
+  left: 900px;
+  bottom:472  px;
+} 
